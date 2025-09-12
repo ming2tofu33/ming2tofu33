@@ -62,19 +62,22 @@ Here are some ideas to get you started:
 🛠️ Tech Stack
 <div align="center">
 💻 Programming & Data
-이미지 표시
-이미지 표시
-이미지 표시
-이미지 표시
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)
+
 🤖 AI & Machine Learning
-이미지 표시
-이미지 표시
-이미지 표시
+![scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-121212?style=flat-square&logo=chainlink&logoColor=white)
+
 📊 Visualization & Tools
-이미지 표시
-이미지 표시
-이미지 표시
-이미지 표시
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557c?style=flat-square&logo=python&logoColor=white)
+![Seaborn](https://img.shields.io/badge/Seaborn-3776AB?style=flat-square&logo=python&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white)
+
 </div>
 
 🏆 Coding Challenges
@@ -190,47 +193,65 @@ Multi-level SQL analysis on music streaming database with customer segmentation,
 </tr>
 </table>
 
-📈 GitHub Activity
+---
+
+## 📈 GitHub Activity
+
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ming2tofu33&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ming2tofu33&layout=compact&theme=radical"/>
 </div>
+
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=ming2tofu33&theme=radical"/>
 </div>
 
-📊 GitHub Stats Summary
+---
+
+## 📊 GitHub Stats Summary
+
 <div align="center">
-MetricCount📚 Total Commits150+🗂️ Public Repositories11📝 TIL Posts50+🌟 Projects Completed5+
+
+| **Metric** | **Count** |
+|------------|-----------|
+| 📚 Total Commits | 150+ |
+| 🗂️ Public Repositories | 11 |
+| 📝 TIL Posts | 50+ |
+| 🌟 Projects Completed | 5+ |
+
 </div>
 
-💡 Fun Facts & Background
+---
 
-🌍 Multilingual: Korean (Native), English (Fluent)
-⛷️ Former ski instructor with customer service experience at ski resorts
-🎓 International experience: Canadian high school graduate, University of Toronto (Computer Science)
-🎯 Goal: Bridging business problems with data-driven solutions
-📚 Learning philosophy: "Data tells stories, not just numbers"
-🚀 Current mission: Transforming diverse work experiences into data science expertise
+## 💡 Fun Facts & Background
 
+- 🌍 **Multilingual:** Korean (Native), English (Fluent) 
+- ⛷️ **Former ski instructor** with customer service experience at ski resorts
+- 🎓 **International experience:** Canadian high school graduate, University of Toronto (Computer Science)
+- 🎯 **Goal:** Bridging business problems with data-driven solutions
+- 📚 **Learning philosophy:** *"Data tells stories, not just numbers"*
+- 🚀 **Current mission:** Transforming diverse work experiences into data science expertise
 
-🎯 Goals & Vision
-🔥 Short-term Goals (6 months)
+---
 
-📍 Secure first Data Scientist position
-🛠️ Complete 3+ production-ready projects
-🧠 Master TensorFlow/PyTorch frameworks
-🏆 Contribute to open-source projects
+## 🎯 Goals & Vision
 
-🚀 Long-term Vision (2-3 years)
+### 🔥 Short-term Goals (6 months)
+- 📍 Secure first Data Scientist position
+- 🛠️ Complete 3+ production-ready projects  
+- 🧠 Master TensorFlow/PyTorch frameworks
+- 🏆 Contribute to open-source projects
 
-🎯 Reach Senior Data Scientist level
-💼 Lead AI product development initiatives
-🌟 Build impactful data-driven solutions
-📚 Mentor aspiring data scientists
+### 🚀 Long-term Vision (2-3 years)
+- 🎯 Reach Senior Data Scientist level
+- 💼 Lead AI product development initiatives
+- 🌟 Build impactful data-driven solutions
+- 📚 Mentor aspiring data scientists
 
+---
 
-📖 Learning Resources & Notes
+## 📖 Learning Resources & Notes
+
 <div align="center">
   <a href="https://www.notion.so/21cee8fffe15809b8428e059252b7b63?v=21cee8fffe158139b40e000c1a50ab22">
     <img src="https://img.shields.io/badge/Study_Notes-Notion-000000?style=for-the-badge&logo=notion&logoColor=white"/>
@@ -239,17 +260,21 @@ MetricCount📚 Total Commits150+🗂️ Public Repositories11📝 TIL Posts50+�
     <img src="https://img.shields.io/badge/TIL_Repository-GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
 </div>
-Recent Learning Topics:
 
-🧠 Large Language Models (LLM) and Prompt Engineering
-🔗 LangChain framework for AI applications
-📊 Advanced statistical analysis and hypothesis testing
-🤖 Machine Learning model deployment and MLOps
+**Recent Learning Topics:**
+- 🧠 Large Language Models (LLM) and Prompt Engineering
+- 🔗 LangChain framework for AI applications  
+- 📊 Advanced statistical analysis and hypothesis testing
+- 🤖 Machine Learning model deployment and MLOps
 
+---
 
-📬 Let's Connect!
+## 📬 Let's Connect!
+
 <div align="center">
-Always open to discussing data science, AI, and collaboration opportunities!
+  
+**Always open to discussing data science, AI, and collaboration opportunities!**
+
 <p>
   <a href="mailto:ming2tofu33@gmail.com">
     <img src="https://img.shields.io/badge/Email-ming2tofu33@gmail.com-red?style=flat-square&logo=gmail&logoColor=white"/>
@@ -261,6 +286,7 @@ Always open to discussing data science, AI, and collaboration opportunities!
     <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=flat-square&logo=linkedin&logoColor=white"/>
   </a>
 </p>
+
 <p><em>💬 Feel free to reach out for collaborations, data science discussions, or just to say hi!</em></p>
 
 <div align="center">
