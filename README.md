@@ -57,6 +57,8 @@ Here are some ideas to get you started:
 
 </div>
 
+---
+
 ## 🏆 Coding Challenges
 
 <div align="center">
@@ -80,7 +82,10 @@ Here are some ideas to get you started:
   <p><em>🔥 Daily problem solving across platforms to strengthen algorithmic thinking</em></p>
 </div>
 
-🚀 Main Project
+---
+
+## 🚀 Main Project
+
 <div align="center">
 <table>
 <tr>
@@ -88,6 +93,8 @@ Here are some ideas to get you started:
 
 ### 🎬 Movie Data Analysis
 **Tech Stack:** `Python` `KOFIC API` `Web Scraping` `Pandas`
+
+A comprehensive data analysis project examining Korean cinema trends from 2005-2019. This flagship project integrated multiple data sources including KOFIC API and TMDB API for official movie metadata, combined with web scraping of Naver movie ratings to create a robust dataset of ~900 Korean films for in-depth industry analysis.
 
 **Key Features:**
 - Multi-source data collection (KOFIC + TMDB APIs)
@@ -100,7 +107,8 @@ Here are some ideas to get you started:
 </table>
 </div>
 
-🔬 Mini Projects
+## 🔬 Mini Projects
+
 <table>
 <tr>
 <td width="50%">
