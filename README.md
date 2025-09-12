@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 -->
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=FF69B4&center=true&width=600&lines=%22Hello%2C+World!+This+is+Domin+Kim.%22;AI+Engineer+%26+Data+Analytics+Enthusiast" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=24&pause=1000&color=FF69B4&center=true&width=600&lines=%22Hello%2C+World!+This+is+Domin+Kim.%22;AI+Engineer+%26+Data+Analytics+Enthusiast" alt="Typing SVG" />
   <p>
     <a href="https://ming2tofu33.github.io/"><img src="https://img.shields.io/badge/Portfolio-FF69B4?style=for-the-badge&logo=safari&logoColor=white"/></a>
     <a href="mailto:ming2tofu33@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
