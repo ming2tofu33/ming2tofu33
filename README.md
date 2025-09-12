@@ -196,9 +196,9 @@ Multi-level SQL analysis on music streaming database with customer segmentation,
 | **Metric** | **Count** |
 |------------|-----------|
 | 📚 Total Commits | 150+ |
-| 🗂️ Public Repositories | 6 |
+| 🗂️ Public Repositories | 11 |
 | 📝 TIL Posts | 50+ |
-| 🌟 Projects Completed | 4+ |
+| 🌟 Projects Completed | 5+ |
 
 </div>
 
