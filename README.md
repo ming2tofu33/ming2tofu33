@@ -101,25 +101,17 @@ Here are some ideas to get you started:
 
 🚀 Main Project
 <div align="center">
-🎬 Movie Data Analysis Project
-Comprehensive Korean Cinema Data Analysis System
 <table>
 <tr>
 <td width="100%">
-Tech Stack: Python KOFIC API TMDB API Web Scraping BeautifulSoup Pandas Data Analysis
 
-A comprehensive data analysis project examining Korean cinema trends from 2005-2019. This flagship project integrated multiple data sources including KOFIC API and TMDB API for official movie metadata, combined with web scraping of Naver movie ratings to create a robust dataset of ~900 Korean films for in-depth industry analysis.
+### 🎬 Movie Data Analysis
+**Tech Stack:** `Python` `KOFIC API` `Web Scraping` `Pandas`
 
-🔥 Key Features:
-
-Multi-source Data Collection: Integrated KOFIC + TMDB APIs for official movie data
-Web Scraping Integration: Enhanced dataset with Naver movie ratings via BeautifulSoup  
-Genre & Temporal Analysis: Trend analysis across genres and time periods
-Box Office vs Rating Correlation: Analyzed relationship between critical reception and commercial success
-Director-Actor Network Analysis: Mapped collaboration patterns and their impact on box office performance
-Historical Film (Saeguk) Insights: Deep dive into Korea's unique historical drama genre
-Comprehensive EDA: Exploratory data analysis revealing industry patterns
-Data Pipeline: Complete pipeline from collection to insights generation
+**Key Features:**
+- Multi-source data collection (KOFIC + TMDB APIs)
+- Web scraping for additional rating data
+- Genre and temporal trend analysis
 
 📋 [View Project](https://github.com/ming2tofu33/pjt-movie-analysis) • 📊 Report
 </td>
@@ -131,58 +123,69 @@ Data Pipeline: Complete pipeline from collection to insights generation
 <table>
 <tr>
 <td width="50%">
-🎵 SQL Music Database Analysis
-Tech Stack: SQL PostgreSQL Data Analysis
-Multi-level SQL analysis on music streaming database with customer segmentation, cohort analysis, and business metrics calculation across beginner to advanced difficulty levels. Performed comprehensive analysis including customer behavior, revenue aggregation, and retention analytics for business insights.
-Key Features:
 
-Customer acquisition cost (CAC) analysis
-Lifetime value (LTV) calculations
-Cohort retention analysis
-Revenue optimization insights
+### 🍷 Wine Quality Prediction
+**Tech Stack:** `Python` `Scikit-learn` `Feature Engineering`
 
-📋 View Project • 📈 Report
+Classification model to predict wine quality grades based on chemical properties, featuring extensive hyperparameter tuning and model evaluation.
+
+**Key Features:**
+- Chemical property analysis
+- Multiple ML algorithm comparison
+- Hyperparameter optimization
+- Performance benchmarking
+
+[📋 View Project](https://github.com/ming2tofu33/pjt-mini-redwine_quality) • [🔬 Analysis](#)
+
+
 </td>
 <td width="50%">
-🤖 Telegram Chatbot
-Tech Stack: Python FastAPI OpenAI API Telegram Bot API
-AI-powered Telegram chatbot with OpenAI integration, featuring both webhook and polling implementations for real-time conversation capabilities.
-Key Features:
 
-GPT-4 powered conversational AI
-Webhook and polling implementations
-Environment variable security
-RESTful API design
+### 🚢 Titanic Survival Analysis
+**Tech Stack:** `Python` `Scikit-learn` `EDA` `ML`
 
-📋 View Project • 🤖 Demo
+Machine learning project to predict passenger survival on the Titanic using feature engineering, data preprocessing, and multiple classification algorithms.
+
+**Key Features:**
+- Comprehensive exploratory data analysis
+- Feature engineering and selection
+- Model comparison and optimization
+- Statistical insights into survival factors
+
+[📋 View Project](https://github.com/ming2tofu33/pjt-mini-titanic_survival) • [📓 Notebook](#)
+
+
 </td>
 </tr>
 <tr>
 <td width="50%">
-🚢 Titanic Survival Analysis
-Tech Stack: Python Scikit-learn EDA Data Preprocessing
-Machine learning project to predict passenger survival on the Titanic using feature engineering, data preprocessing, and multiple classification algorithms.
-Key Features:
 
-Comprehensive exploratory data analysis
-Advanced outlier detection & handling
-Feature engineering and selection
-Statistical insights into survival factors
+### 🤖 Telegram Chatbot
+**Tech Stack:** `Python` `FastAPI` `OpenAI API` `Telegram Bot API`
 
-📋 View Project • 📓 Notebook
+AI-powered Telegram chatbot with OpenAI integration, featuring both webhook and polling implementations for real-time conversation capabilities.
+
+**Key Features:**
+- GPT-4 powered conversational AI
+- Webhook and polling implementations  
+- Environment variable security
+- RESTful API design
+
+[📋 View Project](https://github.com/ming2tofu33/pjt-mini-telegram_chatbot) • [🤖 Demo](#)
+
 </td>
 <td width="50%">
-🍷 Wine Quality Prediction
-Tech Stack: Python Scikit-learn Feature Engineering
-Classification model to predict wine quality grades based on chemical properties, featuring extensive hyperparameter tuning and model evaluation.
-Key Features:
 
-Chemical property analysis
-Multiple ML algorithm comparison
-Hyperparameter optimization
-Performance benchmarking
+### 🎵 SQL Music Database Analysis  
+**Tech Stack:** `SQL` `PostgreSQL` `Data Analysis`
 
-📋 View Project • 🔬 Analysis
+Multi-level SQL analysis on music streaming database with customer segmentation, cohort analysis, and business metrics calculation across beginner to advanced difficulty levels.
+
+**Key Features:**
+- Customer acquisition cost (CAC) analysis • Lifetime value (LTV) calculations • Cohort retention analysis • Revenue optimization insights
+
+[📋 View Project](https://github.com/ming2tofu33/pjt-mini-sql) • [📈 Report](#)
+
 </td>
 </tr>
 </table>
