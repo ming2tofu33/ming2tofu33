@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 -->
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=FF69B4&center=true&vCenter=true&width=700&lines=Hello+World!+This+is+Domin+Kim.;AI+Engineer+%26+Data+Analytics+Enthusiast;경계를+넘어%2C+실용적인+AI+솔루션을+만드는+도전가" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&pause=1000&color=FF69B4&width=435&lines=%22Hello%2C+World!+This+is+Domin+Kim.%22;AI+Engineer+%26+Data+Analytics+Enthusiast" alt="Typing SVG" />
   <p>
     <a href="https://ming2tofu33.github.io/"><img src="https://img.shields.io/badge/Portfolio-FF69B4?style=for-the-badge&logo=safari&logoColor=white"/></a>
     <a href="mailto:ming2tofu33@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
@@ -184,12 +184,7 @@ Multi-level SQL analysis on music streaming database with customer segmentation,
 ## 📈 GitHub Activity
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ming2tofu33&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ming2tofu33&layout=compact&theme=radical"/>
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ming2tofu33&theme=radical"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ming2tofu33&theme=radical"/>  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ming2tofu33&layout=compact&theme=radical"/>
 </div>
 
 ---
@@ -242,7 +237,7 @@ Multi-level SQL analysis on music streaming database with customer segmentation,
   <a href="https://www.notion.so/21cee8fffe15809b8428e059252b7b63?v=21cee8fffe158139b40e000c1a50ab22">
     <img src="https://img.shields.io/badge/Study_Notes-Notion-000000?style=for-the-badge&logo=notion&logoColor=white"/>
   </a>
-  <a href="https://github.com/ming2tofu33">
+  <a href="https://github.com/ming2tofu33/TIL">
     <img src="https://img.shields.io/badge/TIL_Repository-GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
 </div>
@@ -259,7 +254,7 @@ Multi-level SQL analysis on music streaming database with customer segmentation,
 
 <div align="center">
   
-**Always open to discussing data science, AI, and collaboration opportunities!**
+<p><em>💬 Feel free to reach out for collaborations, AI & data science discussions, or just to say hi!</em></p>
 
 <p>
   <a href="mailto:ming2tofu33@gmail.com">
@@ -273,7 +268,13 @@ Multi-level SQL analysis on music streaming database with customer segmentation,
   </a>
 </p>
 
-<p><em>💬 Feel free to reach out for collaborations, data science discussions, or just to say hi!</em></p>
+---
+
+<div align="center">
+
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=14&pause=300&color=FF69B4&multiline=true&repeat=false&width=435&separator=%3C&lines=%22To+me%2C+AI+is+more+than+code;+it's+the+key+%F0%9F%94%91%3C+to+solving+humanity's+most+complex+challenges.%22" alt="Typing SVG" />
+
+</div>
 
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=FF69B4&height=100&section=footer&text=Thanks%20for%20visiting!&fontSize=20&fontColor=ffffff"/>
