@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 -->
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&pause=1000&color=FF69B4&width=435&lines=%22Hello%2C+World!+This+is+Domin+Kim.%22;AI+Engineer+%26+Data+Analytics+Enthusiast" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=FF69B4&center=true&width=500&lines=%22Hello%2C+World!+This+is+Domin+Kim.%22;AI+Engineer+%26+Data+Analytics+Enthusiast" alt="Typing SVG" />
   <p>
     <a href="https://ming2tofu33.github.io/"><img src="https://img.shields.io/badge/Portfolio-FF69B4?style=for-the-badge&logo=safari&logoColor=white"/></a>
     <a href="mailto:ming2tofu33@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
@@ -272,7 +272,7 @@ Multi-level SQL analysis on music streaming database with customer segmentation,
 
 <div align="center">
 
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=14&pause=300&color=FF69B4&multiline=true&repeat=false&width=435&separator=%3C&lines=%22To+me%2C+AI+is+more+than+code;+it's+the+key+%F0%9F%94%91%3C+to+solving+humanity's+most+complex+challenges.%22" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=14&pause=300&color=FF69B4&multiline=true&repeat=true&width=435&separator=%3C&lines=%22To+me%2C+AI+is+more+than+code;+it's+the+key+%F0%9F%94%91%3C+to+solving+humanity's+most+complex+challenges.%22" alt="Typing SVG" />
 
 </div>
 
