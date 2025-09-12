@@ -13,6 +13,21 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+<!--
+**ming2tofu33/ming2tofu33** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+Here are some ideas to get you started:
+
+- 🔭 I'm currently working on ...
+- 🌱 I'm currently learning ...
+- 👯 I'm looking to collaborate on ...
+- 🤔 I'm looking for help with ...
+- 💬 Ask me about ...
+- 📫 How to reach me: ...
+- 😄 Pronouns: ...
+- ⚡ Fun fact: ...
+-->
+
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=FF69B4&center=true&vCenter=true&width=700&lines=Hello+World!+This+is+Domin+Kim.;AI+Engineer+%26+Data+Analytics+Enthusiast;경계를+넘어%2C+실용적인+AI+솔루션을+만드는+도전가" alt="Typing SVG" />
   
@@ -86,57 +101,56 @@ Here are some ideas to get you started:
 
 ---
 
-## 🚀 Featured Projects
+## 🚀 Main Project
+
+<div align="center">
+
+### 🎬 Movie Data Analysis Project
+**종합 영화 데이터 분석 시스템**
+
+<table>
+<tr>
+<td width="100%">
+
+**Tech Stack:** `Python` `KOFIC API` `TMDB API` `Web Scraping` `BeautifulSoup` `Pandas` `Data Analysis`
+
+KOFIC API와 TMDB API를 통해 영화 데이터를 수집하고, 네이버 영화 평점을 웹 크롤링으로 추가 수집하여 종합적인 영화 데이터 분석을 진행한 대표 프로젝트입니다.
+
+**🔥 Key Features:**
+- **Multi-source Data Collection**: KOFIC + TMDB APIs 통합 활용
+- **Web Scraping Integration**: 네이버 영화 평점 크롤링으로 데이터 보강  
+- **Genre & Temporal Analysis**: 장르별, 연도별 트렌드 분석
+- **Comprehensive EDA**: 탐색적 데이터 분석을 통한 인사이트 도출
+- **Data Pipeline**: 수집부터 분석까지 완전한 데이터 파이프라인 구축
+
+[📋 View Project](https://github.com/ming2tofu33/pjt-movie-analysis) • [📊 Report](#)
+
+</td>
+</tr>
+</table>
+
+</div>
+
+---
+
+## 🔬 Mini Projects
 
 <table>
 <tr>
 <td width="50%">
 
-### 🎬 Movie Data Analysis
-**Tech Stack:** `Python` `KOFIC API` `Web Scraping` `Pandas`
+### 🎵 SQL Music Database Analysis  
+**Tech Stack:** `SQL` `PostgreSQL` `Data Analysis`
 
-Comprehensive movie industry analysis using KOFIC API and web crawling for Naver movie ratings. Combined multiple data sources to derive insights about Korean film industry trends.
-
-**Key Features:**
-- Multi-source data collection (KOFIC + TMDB APIs)
-- Web scraping for additional rating data
-- Genre and temporal trend analysis
-
-[📋 View Project](https://github.com/ming2tofu33/pjt-movie_analysis) • [📊 Report](#)
-
-</td>
-<td width="50%">
-
-### 🍷 Wine Quality Prediction
-**Tech Stack:** `Python` `Scikit-learn` `Feature Engineering`
-
-Classification model to predict wine quality grades based on chemical properties, featuring extensive hyperparameter tuning and model evaluation.
+음악 스트리밍 데이터베이스를 대상으로 초/중/고급 난이도별 SQL 쿼리를 작성하고 분석했습니다. 고객 분석, 매출 집계, 코호트 분석 등 실무에서 활용할 수 있는 다양한 분석을 수행했습니다.
 
 **Key Features:**
-- Chemical property analysis
-- Multiple ML algorithm comparison
-- Hyperparameter optimization
-- Performance benchmarking
+- Customer acquisition cost (CAC) analysis 
+- Lifetime value (LTV) calculations 
+- Cohort retention analysis 
+- Revenue optimization insights
 
-[📋 View Project](https://github.com/ming2tofu33/pjt-mini-redwine_quality) • [🔬 Analysis](#)
-
-</td>
-</tr>
-<tr>
-<td width="50%">
-
-### 🚢 Titanic Survival Analysis
-**Tech Stack:** `Python` `Scikit-learn` `EDA` `ML`
-
-Machine learning project to predict passenger survival on the Titanic using feature engineering, data preprocessing, and multiple classification algorithms.
-
-**Key Features:**
-- Comprehensive exploratory data analysis
-- Feature engineering and selection
-- Model comparison and optimization
-- Statistical insights into survival factors
-
-[📋 View Project](https://github.com/ming2tofu33/pjt-mini-titanic_survival) • [📓 Notebook](#)
+[📋 View Project](https://github.com/ming2tofu33/pjt-mini-sql) • [📈 Report](#)
 
 </td>
 <td width="50%">
@@ -157,17 +171,36 @@ AI-powered Telegram chatbot with OpenAI integration, featuring both webhook and 
 </td>
 </tr>
 <tr>
-<td colspan="2">
+<td width="50%">
 
-### 🎵 SQL Music Database Analysis  
-**Tech Stack:** `SQL` `PostgreSQL` `Data Analysis`
+### 🚢 Titanic Survival Analysis
+**Tech Stack:** `Python` `Scikit-learn` `EDA` `Data Preprocessing`
 
-Multi-level SQL analysis on music streaming database with customer segmentation, cohort analysis, and business metrics calculation across beginner to advanced difficulty levels.
+Machine learning project to predict passenger survival on the Titanic using feature engineering, data preprocessing, and multiple classification algorithms.
 
 **Key Features:**
-- Customer acquisition cost (CAC) analysis • Lifetime value (LTV) calculations • Cohort retention analysis • Revenue optimization insights
+- Comprehensive exploratory data analysis
+- Advanced outlier detection & handling
+- Feature engineering and selection
+- Statistical insights into survival factors
 
-[📋 View Project](https://github.com/ming2tofu33/pjt-mini-sql) • [📈 Report](#)
+[📋 View Project](https://github.com/ming2tofu33/pjt-mini-titanic_survival) • [📓 Notebook](#)
+
+</td>
+<td width="50%">
+
+### 🍷 Wine Quality Prediction
+**Tech Stack:** `Python` `Scikit-learn` `Feature Engineering`
+
+Classification model to predict wine quality grades based on chemical properties, featuring extensive hyperparameter tuning and model evaluation.
+
+**Key Features:**
+- Chemical property analysis
+- Multiple ML algorithm comparison
+- Hyperparameter optimization
+- Performance benchmarking
+
+[📋 View Project](https://github.com/ming2tofu33/pjt-mini-redwine_quality) • [🔬 Analysis](#)
 
 </td>
 </tr>
@@ -272,7 +305,7 @@ Multi-level SQL analysis on music streaming database with customer segmentation,
 ---
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=24&height=100&section=footer&text=Thanks%20for%20visiting!&fontSize=20&fontColor=ffffff"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=FF69B4&height=100&section=footer&text=Thanks%20for%20visiting!&fontSize=20&fontColor=ffffff"/>
 </div>
 
 </div>
