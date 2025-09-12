@@ -22,7 +22,6 @@ Here are some ideas to get you started:
     <a href="https://www.linkedin.com/in/domin-kim-b5b3b9366/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
   </p>
 
-  ![Visitor Count](https://profile-counter.glitch.me/ming2tofu33/count.svg)
 </div>
 
 ---
@@ -126,7 +125,7 @@ Classification model to predict wine quality grades based on chemical properties
 <tr>
 <td width="50%">
 
-### 🤖 Titanic Survival Analysis
+### 🚢 Titanic Survival Analysis
 **Tech Stack:** `Python` `Scikit-learn` `EDA` `ML`
 
 Machine learning project to predict passenger survival on the Titanic using feature engineering, data preprocessing, and multiple classification algorithms.
