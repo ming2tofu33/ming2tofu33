@@ -11,37 +11,9 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
 -->
 
-<!--
-**ming2tofu33/ming2tofu33** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I'm currently working on ...
-- 🌱 I'm currently learning ...
-- 👯 I'm looking to collaborate on ...
-- 🤔 I'm looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
-<!--
-**ming2tofu33/ming2tofu33** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I'm currently working on ...
-- 🌱 I'm currently learning ...
-- 👯 I'm looking to collaborate on ...
-- 🤔 I'm looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=FF69B4&center=true&vCenter=true&width=700&lines=Hello+World!+This+is+Domin+Kim.;AI+Engineer+%26+Data+Analytics+Enthusiast;경계를+넘어%2C+실용적인+AI+솔루션을+만드는+도전가" alt="Typing SVG" />
   <p>
@@ -51,28 +23,33 @@ Here are some ideas to get you started:
   </p>
 </div>
 
-🌱 Currently Working On
+---
 
-🎓 SeSAC AI Data Analytics Program (Month 3/3) - Final project phase
-🔍 Daily Algorithm Practice - Maintaining consistency across 5 platforms
-🚀 LLM Integration Projects - Building practical AI applications
-📝 Technical Blog - Documenting learning journey via daily TIL posts
+## 🌱 Currently Working On
 
+- 🎓 **SeSAC AI Data Analytics Program** (Month 3/3) - Final project phase
+- 🔍 **Daily Algorithm Practice** - Maintaining consistency across 5 platforms  
+- 🚀 **LLM Integration Projects** - Building practical AI applications
+- 📝 **Technical Blog** - Documenting learning journey via daily TIL posts
 
-🛠️ Tech Stack
+---
+
+## 🛠️ Tech Stack
+
 <div align="center">
-💻 Programming & Data
+
+### 💻 Programming & Data
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)
 
-🤖 AI & Machine Learning
+### 🤖 AI & Machine Learning  
 ![scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)
 ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white)
 ![LangChain](https://img.shields.io/badge/LangChain-121212?style=flat-square&logo=chainlink&logoColor=white)
 
-📊 Visualization & Tools
+### 📊 Visualization & Tools
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557c?style=flat-square&logo=python&logoColor=white)
 ![Seaborn](https://img.shields.io/badge/Seaborn-3776AB?style=flat-square&logo=python&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
@@ -80,7 +57,8 @@ Here are some ideas to get you started:
 
 </div>
 
-🏆 Coding Challenges
+## 🏆 Coding Challenges
+
 <div align="center">
   <a href="https://www.kaggle.com/ming2tofu33">
     <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white"/>
@@ -99,7 +77,7 @@ Here are some ideas to get you started:
   </a>
 </div>
 <div align="center">
-  <p><em>🔥 Daily problem solving across 5 platforms to strengthen algorithmic thinking</em></p>
+  <p><em>🔥 Daily problem solving across platforms to strengthen algorithmic thinking</em></p>
 </div>
 
 🚀 Main Project
