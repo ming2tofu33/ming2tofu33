@@ -88,6 +88,26 @@ Here are some ideas to get you started:
 
 <div align="center">
 <table>
+
+<tr>
+<td width="100%">
+
+### 🤵‍♀️ AI Wedding Planner Agent
+**Status:** In Progress ⏳  
+**Tech Stack:** `Python` `LangChain` `OpenAI` `LLM` `Streamlit`
+
+An AI-powered wedding planner agent that provides personalized recommendations for wedding venues, vendors, and schedules. This project utilizes the LangChain framework to integrate various tools and LLM functionalities for a conversational and task-oriented user experience.
+
+**Key Features:**
+- AI agent for personalized recommendations
+- LangChain framework for tool integration
+- Conversational and task-oriented UI
+- User-friendly interface with Gradio
+
+📋 [View Project](https://github.com/ming2tofu33/pjt-wedding_planner_AI_agent) • 🤖 Demo
+</td>
+</tr>
+
 <tr>
 <td width="100%">
 
