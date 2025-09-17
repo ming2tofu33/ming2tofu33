@@ -92,7 +92,7 @@ Here are some ideas to get you started:
 <tr>
 <td width="100%">
 
-### 🤵‍♀️ AI Wedding Planner Agent
+### 💍 AI Wedding Planner Agent
 **Status:** In Progress ⏳  
 **Tech Stack:** `Python` `LangChain` `OpenAI` `LLM` `Streamlit`
 
