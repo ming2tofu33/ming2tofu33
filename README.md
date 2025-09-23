@@ -133,6 +133,42 @@ A comprehensive data analysis project examining Korean cinema trends from 2005-2
 <tr>
 <td width="50%">
 
+
+### 🗃️ Multi-Database ETL Pipeline
+**Tech Stack:** `Python` `SQLAlchemy` `PostgreSQL` `Pandas`
+
+Production-ready ETL pipeline system supporting multiple database connections with connection pooling, transaction management, and automated data processing workflows.
+
+**Key Features:**
+- Multi-database support (PostgreSQL, SQLite, MySQL)
+- Connection pooling and session management
+- Dynamic query generation with error handling
+- Automated ETL process scheduling
+
+[📋 View Project](https://github.com/ming2tofu33/pjt-mini-sql_conn) • [🔧 Analysis](#)
+
+</td>
+<td width="50%">
+
+### 🤖 LangGraph Code Assistant
+**Tech Stack:** `Python` `LangChain` `LangGraph` `OpenAI API`
+
+AI-powered conversational code interpreter using LangGraph workflow that converts natural language questions into executable Python code with real-time execution and intelligent result interpretation.
+
+**Key Features:**
+- Natural language to Python code conversion
+- LangGraph StateGraph workflow design
+- PythonREPL sandbox execution environment
+- 3-stage pipeline: generate → execute → interpret
+
+[📋 View Project](https://github.com/ming2tofu33/pjt-mini-code_interpreter) • [🧠 Demo](#)
+
+
+</td>
+</tr>
+<tr>
+<td width="50%">
+
 ### 🍷 Wine Quality Prediction
 **Tech Stack:** `Python` `Scikit-learn` `Feature Engineering`
 
