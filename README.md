@@ -1,21 +1,9 @@
 <!--
 **ming2tofu33/ming2tofu33** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-
 -->
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=24&pause=1000&color=FF69B4&center=true&width=600&lines=%22Hello%2C+World!+This+is+Domin+Kim.%22;AI+Engineer+%26+Data+Analytics+Enthusiast" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&size=17&pause=1000&color=FF69B4&width=670&lines=%22Hello%2C+World!+This+is+Domin+Kim.%22;AI+Engineer+%26+Data+Analytics+Enthusiast" alt="Typing SVG" />
   <p>
     <a href="https://ming2tofu33.github.io/"><img src="https://img.shields.io/badge/Portfolio-FF69B4?style=for-the-badge&logo=safari&logoColor=white"/></a>
     <a href="mailto:ming2tofu33@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
@@ -25,10 +13,17 @@ Here are some ideas to get you started:
 
 ---
 
+## 💼 Open to Opportunities
+
+🔍 Actively seeking **AI Engineer** / **Data Analyst** positions  
+📍 Location: Seoul, South Korea | Remote-friendly
+
+---
+
 ## 🌱 Currently Working On
 
-- 🎓 **SeSAC AI Data Analytics Program** (Month 3/3) - Final project phase
-- 🔍 **Daily Algorithm Practice** - Maintaining consistency across 5 platforms  
+- ✅ **Completed SeSAC AI-powered Data Analyst Training Program**
+- 📝 **Daily Algorithm Practice** - Maintaining consistency across 5 platforms  
 - 🚀 **LLM Integration Projects** - Building practical AI applications
 - 📝 **Technical Blog** - Documenting learning journey via daily TIL posts
 
@@ -80,6 +75,7 @@ Here are some ideas to get you started:
 </div>
 <div align="center">
   <p><em>🔥 Daily problem solving across platforms to strengthen algorithmic thinking</em></p>
+  <p><a href="https://github.com/ming2tofu33/coding-challenges"><strong>📁 View my coding solutions repository</strong></a></p>
 </div>
 
 ---
@@ -93,7 +89,7 @@ Here are some ideas to get you started:
 <td width="100%">
 
 ### 💍 AI Wedding Planner Agent
-**Status:** In Progress ⏳  
+**Status:** Completed ✅  
 **Tech Stack:** `Python` `LangChain` `OpenAI` `LLM` `Streamlit`
 
 An AI-powered wedding planner agent that provides personalized recommendations for wedding venues, vendors, and schedules. This project utilizes the LangChain framework to integrate various tools and LLM functionalities for a conversational and task-oriented user experience.
@@ -104,7 +100,7 @@ An AI-powered wedding planner agent that provides personalized recommendations f
 - Conversational and task-oriented UI
 - User-friendly interface with Gradio
 
-📋 [View Project](https://github.com/ming2tofu33/pjt-wedding_planner_AI_agent) • 🤖 Demo
+📋 [View Project](https://github.com/ming2tofu33/pjt-wedding_planner_AI_agent)
 </td>
 </tr>
 
@@ -121,7 +117,7 @@ A comprehensive data analysis project examining Korean cinema trends from 2005-2
 - Web scraping for additional rating data
 - Genre and temporal trend analysis
 
-📋 [View Project](https://github.com/ming2tofu33/pjt-movie-analysis) • 📊 Report
+📋 [View Project](https://github.com/ming2tofu33/pjt-movie-analysis)
 </td>
 </tr>
 </table>
@@ -132,7 +128,6 @@ A comprehensive data analysis project examining Korean cinema trends from 2005-2
 <table>
 <tr>
 <td width="50%">
-
 
 ### 🗃️ Multi-Database ETL Pipeline
 **Tech Stack:** `Python` `SQLAlchemy` `PostgreSQL` `Pandas`
@@ -145,7 +140,7 @@ Production-ready ETL pipeline system supporting multiple database connections wi
 - Dynamic query generation with error handling
 - Automated ETL process scheduling
 
-[📋 View Project](https://github.com/ming2tofu33/pjt-mini-sql_conn) • [🔧 Analysis](#)
+[📋 View Project](https://github.com/ming2tofu33/pjt-mini-sql_conn)
 
 </td>
 <td width="50%">
@@ -161,11 +156,13 @@ AI-powered conversational code interpreter using LangGraph workflow that convert
 - PythonREPL sandbox execution environment
 - 3-stage pipeline: generate → execute → interpret
 
-[📋 View Project](https://github.com/ming2tofu33/pjt-mini-code_interpreter) • [🧠 Demo](#)
-
+[📋 View Project](https://github.com/ming2tofu33/pjt-mini-code_interpreter)
 
 </td>
 </tr>
+</table>
+
+<table>
 <tr>
 <td width="50%">
 
@@ -180,8 +177,7 @@ Classification model to predict wine quality grades based on chemical properties
 - Hyperparameter optimization
 - Performance benchmarking
 
-[📋 View Project](https://github.com/ming2tofu33/pjt-mini-redwine_quality) • [🔬 Analysis](#)
-
+[📋 View Project](https://github.com/ming2tofu33/pjt-mini-redwine_quality)
 
 </td>
 <td width="50%">
@@ -197,8 +193,7 @@ Machine learning project to predict passenger survival on the Titanic using feat
 - Model comparison and optimization
 - Statistical insights into survival factors
 
-[📋 View Project](https://github.com/ming2tofu33/pjt-mini-titanic_survival) • [📓 Notebook](#)
-
+[📋 View Project](https://github.com/ming2tofu33/pjt-mini-titanic_survival)
 
 </td>
 </tr>
@@ -216,7 +211,7 @@ AI-powered Telegram chatbot with OpenAI integration, featuring both webhook and 
 - Environment variable security
 - RESTful API design
 
-[📋 View Project](https://github.com/ming2tofu33/pjt-mini-telegram_chatbot) • [🤖 Demo](#)
+[📋 View Project](https://github.com/ming2tofu33/pjt-mini-telegram_chatbot)
 
 </td>
 <td width="50%">
@@ -227,9 +222,12 @@ AI-powered Telegram chatbot with OpenAI integration, featuring both webhook and 
 Multi-level SQL analysis on music streaming database with customer segmentation, cohort analysis, and business metrics calculation across beginner to advanced difficulty levels.
 
 **Key Features:**
-- Customer acquisition cost (CAC) analysis • Lifetime value (LTV) calculations • Cohort retention analysis • Revenue optimization insights
+- Customer acquisition cost (CAC) analysis
+- Lifetime value (LTV) calculations
+- Cohort retention analysis
+- Revenue optimization insights
 
-[📋 View Project](https://github.com/ming2tofu33/pjt-mini-sql) • [📈 Report](#)
+[📋 View Project](https://github.com/ming2tofu33/pjt-mini-sql)
 
 </td>
 </tr>
@@ -251,46 +249,51 @@ Multi-level SQL analysis on music streaming database with customer segmentation,
 
 | **Metric** | **Count** |
 |------------|-----------|
-| 📚 Total Commits | 250+ |
-| 🗂️ Public Repositories | 11 |
+| 📚 Total Commits | 350+ |
+| 🗂️ Public Repositories | 14 |
 | 📝 TIL Posts | 50+ |
-| 🌟 Projects Completed | 5+ |
+| 🌟 Projects Completed | 3+ |
 
 </div>
 
 ---
 
-## 💡 Fun Facts & Background
+## 💡 What Makes Me Different
 
-- 🌍 **Multilingual:** Korean (Native), English (Fluent) 
-- ⛷️ **Former ski instructor** with customer service experience at ski resorts
-- 🎓 **International experience:** Canadian high school graduate, University of Toronto (Computer Science)
-- 🎯 **Goal:** Bridging business problems with data-driven solutions
-- 📚 **Learning philosophy:** *"Data tells stories, not just numbers"*
-- 🚀 **Current mission:** Transforming diverse work experiences into data science expertise
+- 🎓 **Global Tech Foundation**: Computer Science studies at University of Toronto + Canadian high school background bring cross-cultural perspective and technical fundamentals
+
+- ⛷️ **User-Centric Problem Solver**: Former ski instructor (2021-2025) specialized in assessing individual needs and delivering personalized experiences
+
+- 🏫 **Simplifying Complexity**: Kindergarten English teacher background trained me to break down complex concepts into accessible, engaging formats
+
+- 📊 **Data-Driven from Day One**: Digital advertising experience (2019-2020) analyzing PPL campaign metrics and optimizing marketing strategies
+
+- 🌍 **Bilingual Communicator**: Native Korean + Fluent English for seamless global collaboration
+
+- 🎯 **Diverse Industry Perspective**: Education, advertising, and customer service experience provides unique business insight for data solutions
 
 ---
 
-## 🎯 Goals & Vision
+## 🎯 Career Goals
 
-### 🔥 Short-term Goals (6 months)
-- 📍 Secure first Data Scientist position
-- 🛠️ Complete 3+ production-ready projects  
-- 🧠 Master TensorFlow/PyTorch frameworks
-- 🏆 Contribute to open-source projects
+### 🔥 Immediate Focus (3-6 months)
+- 💼 Secure AI Engineer/Data Analyst position in Seoul
+- 🚀 Deploy 2+ production ML models with real user impact
+- 📚 Master LangChain/LangGraph for production LLM applications
+- 🤝 Contribute to 1+ open-source AI projects
 
-### 🚀 Long-term Vision (2-3 years)
-- 🎯 Reach Senior Data Scientist level
-- 💼 Lead AI product development initiatives
-- 🌟 Build impactful data-driven solutions
-- 📚 Mentor aspiring data scientists
+### 🌟 Long-term Vision (1-2 years)
+- 🎯 Build end-to-end AI products that solve real business problems
+- 📊 Specialize in LLM-powered data analysis systems
+- 🏆 Become go-to expert in AI agent development
+- 💡 Share knowledge through technical writing and mentoring
 
 ---
 
 ## 📖 Learning Resources & Notes
 
 <div align="center">
-  <a href="https://www.notion.so/21cee8fffe15809b8428e059252b7b63?v=21cee8fffe158139b40e000c1a50ab22">
+  <a href="https://maroon-anaconda-f0c.notion.site/21cee8fffe15809b8428e059252b7b63?v=21cee8fffe158139b40e000c1a50ab22&source=copy_link">
     <img src="https://img.shields.io/badge/Study_Notes-Notion-000000?style=for-the-badge&logo=notion&logoColor=white"/>
   </a>
   <a href="https://github.com/ming2tofu33/TIL">
@@ -328,7 +331,7 @@ Multi-level SQL analysis on music streaming database with customer segmentation,
 
 <div align="center">
 
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=14&pause=300&color=FF69B4&multiline=true&repeat=true&width=435&separator=%3C&lines=%22To+me%2C+AI+is+more+than+code;+it's+the+key+%F0%9F%94%91%3C+to+solving+humanity's+most+complex+challenges.%22" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&size=14&duration=3000&pause=700&color=FF69B4&multiline=true&width=670&separator=%3C&lines=%22To+me+AI+is+more+than+code;+it's+the+key+%F0%9F%94%91%3Cto++solving+humanity's+most+complex+challenges.%22" alt="Typing SVG" />
 
 </div>
 
