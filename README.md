@@ -331,7 +331,7 @@ Multi-level SQL analysis on music streaming database with customer segmentation,
 
 <div align="center">
 
-  <img src="https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&size=14&duration=3000&pause=700&color=FF69B4&multiline=true&width=670&separator=%3C&lines=%22To+me+AI+is+more+than+code;+it's+the+key+%F0%9F%94%91%3Cto++solving+humanity's+most+complex+challenges.%22" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&size=11&duration=3000&pause=700&color=FF69B4&multiline=true&width=550&separator=%3C&lines=%22To+me+AI+is+more+than+code;+it's+the+key+%F0%9F%94%91%3Cto++solving+humanity's+most+complex+challenges.%22" alt="Typing SVG" />
 
 </div>
 
