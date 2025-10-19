@@ -18,14 +18,11 @@
 🔍 Actively seeking **AI Engineer** / **Data Analyst** positions  
 📍 Location: Seoul, South Korea | Remote-friendly
 
----
+As a Junior AI Engineer with native-level English proficiency and a global perspective, I possess a strong technical and linguistic foundation built through approximately six years of life in Canada and academic experience at the University of Toronto.
 
-## 🌱 Currently Working On
+I have hands-on experience utilizing Python, SQL, LLM APIs, and data preprocessing skills, notably in developing a LangGraph-based Wedding Planner AI Agent and executing a project involving the analysis of data from 900 Korean films.
 
-- ✅ **Completed SeSAC AI-powered Data Analyst Training Program**
-- 📝 **Daily Algorithm Practice** - Maintaining consistency across 5 platforms  
-- 🚀 **LLM Integration Projects** - Building practical AI applications
-- 📝 **Technical Blog** - Documenting learning journey via daily TIL posts
+Leveraging professional experience in the advertising, education, and leisure industries, I excel at understanding business requirements and rapidly acquiring the latest AI technologies to develop practical, real-world solutions.
 
 ---
 
@@ -271,6 +268,15 @@ Multi-level SQL analysis on music streaming database with customer segmentation,
 - 🌍 **Bilingual Communicator**: Native Korean + Fluent English for seamless global collaboration
 
 - 🎯 **Diverse Industry Perspective**: Education, advertising, and customer service experience provides unique business insight for data solutions
+
+---
+
+## 🌱 Currently Working On
+
+- ✅ **Completed SeSAC AI-powered Data Analyst Training Program**
+- 📝 **Daily Algorithm Practice** - Maintaining consistency across 5 platforms  
+- 🚀 **LLM Integration Projects** - Building practical AI applications
+- 📝 **Technical Blog** - Documenting learning journey via daily TIL posts
 
 ---
 
