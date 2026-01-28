@@ -133,9 +133,9 @@ Currently, I am advancing my technical depth at the Sprint AI Engineer Bootcamp 
 
 I believe in the power of **consistent 1% growth**. I document my daily learning journey to build a solid technical foundation.
 
-* **[😺 TIL (Today I Learned)](https://github.com/ming2tofu33/TIL):** Posts documenting daily progress in AI, Data Science, and CS fundamentals. (Updated Daily)
+* **[😺 TIL (Today I Learned)](https://github.com/ming2tofu33/TIL):** Posts documenting daily progress in AI, Data Science, and CS fundamentals. (Ongoing)
 * **[🏠 Technical Blog](https://0to1log.notion.site/AI-Engineer-2bbee8fffe15809995d0fc6fcded2fd3?source=copy_link):** In-depth articles on project walkthroughs and industry trends.
-* **[📝 Notion Study Notes](https://maroon-anaconda-f0c.notion.site/...):** Centralized knowledge base for Bootcamp curriculum and deep learning research.
+* **[📝 Notion Study Notes](https://0to1log.notion.site/21cee8fffe15809b8428e059252b7b63?v=21cee8fffe158139b40e000c1a50ab22&source=copy_link):** Centralized knowledge base for Bootcamp curriculum and deep learning research.
 
 ### 💭 Problem Solving
 **[📁 View Repository](https://github.com/ming2tofu33/coding_challenges):** *Daily algorithmic practice across 5 platforms to strengthen logical thinking:*
