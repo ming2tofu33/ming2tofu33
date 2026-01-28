@@ -162,8 +162,8 @@ I believe in the power of **consistent 1% growth**. I document my daily learning
 
 ### 🗣️ Leadership & Breaking Down Complexity
 
-* **Leadership in Action:** Serving as **Team Leader** for a Healthcare AI Project at Sprint AI Bootcamp (2026). I manage technical milestones, oversee model architecture, and ensure team-wide communication.
-* **Community Coordination:** Previously served as **Class President at SeSAC** (Seoul Software Academy) for 3 months, acting as a bridge between 30+ students and instructors to foster a collaborative environment.
+* **Leadership in Action:** Serving as **Team Leader** for a Healthcare AI Project at Sprint AI Bootcamp(2026). I manage technical milestones, oversee model architecture, and ensure team-wide communication.
+* **Community Coordination:** Previously served as **Class President** at SeSAC(2025) for 3 months, acting as a bridge between 30+ students and instructors to foster a collaborative environment.
 * **Empathy-Driven Engineering:** Leveraging my background as a **former educator and ski instructor** to simplify complex technical logic for diverse audiences.
 
 ### 📊 Business-Centric Perspective
