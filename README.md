@@ -155,10 +155,6 @@ I believe in the power of **consistent 1% growth**. I document my daily learning
 * Empathy-Driven Engineering: Former educator and ski instructor with a proven ability to simplify complex logic for diverse audiences.
 * Leadership in Action:* Currently leading a healthcare AI project, ensuring clear communication and milestone management within the team.
 
-### 📊 Business-Centric Perspective
-* Data Quality Mindset: Experience in digital media monitoring, focusing on data accuracy and campaign performance metrics.
-* Practical Solutions: Dedicated to building AI agents (like MarryRoute) that solve real-world user pain points.
-
 ---
 
 ## 📬 Let's Connect!
