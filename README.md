@@ -34,7 +34,6 @@ Currently, I am advancing my technical depth at the Sprint AI Engineer Bootcamp 
 <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white"/>
 </div>
 
-
 ### 🤖 AI & Data Science
 
 <em>A comprehensive suite for data engineering, statistical modeling, and developing cutting-edge computer vision and NLP solutions.</em>
@@ -55,10 +54,9 @@ Currently, I am advancing my technical depth at the Sprint AI Engineer Bootcamp 
 
 <div align="left">
 <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white"/>
+<img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white"/>
 <img src="https://img.shields.io/badge/Matplotlib-11557C?style=flat-square&logo=python&logoColor=white"/> 
 <img src="https://img.shields.io/badge/Seaborn-3776AB?style=flat-square&logo=python&logoColor=white"/> 
-<img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white"/>
-<img src="https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white"/>
 <img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=notion&logoColor=white"/>
 </div>
 
@@ -74,14 +72,14 @@ Currently, I am advancing my technical depth at the Sprint AI Engineer Bootcamp 
 
 ### 🎓 Education & Academic Path
 
-* **B.S. in Computer Engineering** | *In Progress (Expected 2026)*
+* **B.S. in Computer Engineering** | *Pursuing (Expected 2026)*
   * Pursuing a second degree via Credit Bank System to solidify CS fundamentals and engineering principles.
   
 * **AI Engineer Bootcamp (Sprint)** | *Nov 2025 – Jun 2026 (Ongoing)*
   * Intensive training on Deep Learning, Computer Vision, and MLOps to build production-ready AI systems.
 
-* **SeSAC (Seoul Software Academy)** | *Jun 2025 – Sep 2025*
-  * Completed the AI-based Data Analyst track, focusing on ML algorithms, LLM Agent design, and end-to-end data workflows.
+* **AI-based Data Analyst (SeSAC)** | *Jun 2025 – Sep 2025*
+  * Comprehensive coursework covering Python/SQL-based data analysis, ML algorithms, and LLM application design with LangChain and RAG.
 
 * **B.A. in Child Studies** | *Feb 2026*
   * Completed via Credit Bank System as a self-directed academic pivot, bridging human development insights with technical communication.
