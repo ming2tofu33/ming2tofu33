@@ -2,7 +2,7 @@
 **ming2tofu33/ming2tofu33** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 
-## 👤 Intro
+# 👤 Intro
 
 I integrate global business insights with AI technology to drive practical problem-solving. I am dedicated to implementing user-centric AI solutions based on a Python, ML, and LLM tech stack.
 
@@ -19,7 +19,7 @@ Currently, I am advancing my technical depth at the Sprint AI Engineer Bootcamp 
 
 ---
 
-## 🛠️ Tech Stack
+# 🛠️ Tech Stack
 
 ### 🚀 Primary Stack
 
@@ -74,7 +74,7 @@ Currently, I am advancing my technical depth at the Sprint AI Engineer Bootcamp 
 
 ---
 
-## 🚀 Main Project
+# 🚀 Main Project
 
 ### 🩺  Healthcare Image Recognition System (In Progress)
 **Role:** Team Leader (Leading a team of AI engineers)
@@ -123,13 +123,13 @@ Currently, I am advancing my technical depth at the Sprint AI Engineer Bootcamp 
 [📁 View Project](https://github.com/ming2tofu33/pjt-movie-analysis)
 
 
-## 🧸 Toy Project
+# 🧸 Toy Project
 
 > In progress...
 
 ---
 
-## 🧠 Knowledge Base & Growth
+# 🧠 Knowledge Base & Growth
 
 I believe in the power of **consistent 1% growth**. I document my daily learning journey to build a solid technical foundation.
 
@@ -154,7 +154,7 @@ I believe in the power of **consistent 1% growth**. I document my daily learning
 ---
 
 
-## 💡 Beyond the Code: My Unique Value
+# 💡 Beyond the Code: My Unique Value
 
 ### 🌍 Global Foundations & Communication
 
@@ -167,7 +167,7 @@ I believe in the power of **consistent 1% growth**. I document my daily learning
 
 ---
 
-## 📬 Let's Connect!
+# 📬 Let's Connect!
 
 <p>
 <a href="https://ming2tofu33.github.io/"><img src="https://img.shields.io/badge/AMY | Portfolio-ff69b4?style=flat-square&logoColor=ff69b4"/></a>
