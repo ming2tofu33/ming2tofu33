@@ -153,17 +153,23 @@ I believe in the power of **consistent 1% growth**. I document my daily learning
 
 ---
 
-
-# 💡 Beyond the Code: My Unique Value
+## 💡 Beyond the Code: My Unique Value
 
 ### 🌍 Global Foundations & Communication
 
-* **6-Year North American Immersion (2011-2017):** Developed deep cultural adaptability and academic rigor through high school graduation and CS studies at the University of Toronto.
-* **Bilingual Technical Edge:** Native-level English fluency for real-time access to SOTA (State-of-the-art) AI research and seamless collaboration within global cross-functional teams.
+* **North American Immersion (2011–2017):** Completed secondary education in **Canada** and **Computer Science coursework at the University of Toronto**, developing a rigorous academic mindset and deep cultural adaptability.
+* **Bilingual Technical Edge:** **Native-level English fluency** for real-time access to **SOTA AI research** and seamless collaboration within global cross-functional teams.
 
-### 🗣️ Breaking Down Complexity
-* Empathy-Driven Engineering: Former educator and ski instructor with a proven ability to simplify complex logic for diverse audiences.
-* Leadership in Action:* Currently leading a healthcare AI project, ensuring clear communication and milestone management within the team.
+### 🗣️ Leadership & Breaking Down Complexity
+
+* **Leadership in Action:** Serving as **Team Leader** for a Healthcare AI Project at Sprint AI Bootcamp (2026). I manage technical milestones, oversee model architecture, and ensure team-wide communication.
+* **Community Coordination:** Previously served as **Class President at SeSAC** (Seoul Software Academy) for 3 months, acting as a bridge between 30+ students and instructors to foster a collaborative environment.
+* **Empathy-Driven Engineering:** Leveraging my background as a **former educator and ski instructor** to simplify complex technical logic for diverse audiences.
+
+### 📊 Business-Centric Perspective
+
+* **Data Quality Mindset:** Professional experience in **digital media monitoring**, focusing on high-level data accuracy and campaign performance metrics.
+* **Practical Problem Solving:** Dedicated to building production-ready AI agents, such as the **AI Wedding Planner (MarryRoute)**, to solve real-world user pain points.
 
 ---
 
