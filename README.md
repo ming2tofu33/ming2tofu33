@@ -64,9 +64,13 @@ Currently, I am advancing my technical depth at the Sprint AI Engineer Bootcamp 
 
 
 ### 📜 Verified Certifications
-* **BAE** (Big Data Analysis Engineer) | Candidate *(Expected 1H 2026)*
-* **SQLD** (SQL Developer) | Dec 2025
-* **ADsP** (Advanced Data Analytics Semi-Professional) | Nov 2025
+
+| Certificate | Issuer | Date |
+| --- | --- | --- |
+| **BAE** (Big Data Analysis Engineer) | Korea Data Agency | Candidate *(Expected 1H 2026)* |
+| **SQLD** (SQL Developer) | Korea Data Agency | 2025.12 |
+| **ADsP** (Advanced Data Analytics Semi-Professional) | Korea Data Agency | 2025.11 |
+| **MK TEST** Excellent | Maeil Business Newspaper | 2024.07 |
 
 ---
 
