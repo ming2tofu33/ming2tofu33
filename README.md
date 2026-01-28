@@ -72,6 +72,23 @@ Currently, I am advancing my technical depth at the Sprint AI Engineer Bootcamp 
 | **ADsP** (Advanced Data Analytics Semi-Professional) | Korea Data Agency | 2025.11 |
 | **MK TEST** Excellent | Maeil Business Newspaper | 2024.07 |
 
+### 🎓 Education & Academic Path
+
+* **B.S. in Computer Engineering** | *In Progress (Expected 2026)*
+  * Pursuing a second degree via Credit Bank System to solidify CS fundamentals and engineering principles.
+  
+* **AI Engineer Bootcamp (Sprint)** | *Nov 2025 – Jun 2026 (Ongoing)*
+  * Intensive training on Deep Learning, Computer Vision, and MLOps to build production-ready AI systems.
+
+* **SeSAC (Seoul Software Academy)** | *Jun 2025 – Sep 2025*
+  * Completed the AI-based Data Analyst track, focusing on ML algorithms, LLM Agent design, and end-to-end data workflows.
+
+* **B.A. in Child Studies** | *Feb 2026*
+  * Completed via Credit Bank System as a self-directed academic pivot, bridging human development insights with technical communication.
+
+* **University of Toronto** | *Computer Science Foundations (2016-2017)*
+  * Developed rigorous technical logic and global academic perspective in a world-class CS environment.
+
 ---
 
 # 🚀 Main Project
