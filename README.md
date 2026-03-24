@@ -11,7 +11,7 @@ My work focuses on LLM applications, data systems, and user-centered AI services
 > 📍 Location: 🇰🇷 -  Seocho, Seoul | Remote-friendly
 
 <p>
-<a href="https://ming2tofu33.github.io/"><img src="https://img.shields.io/badge/AMY | Portfolio-ff69b4?style=flat-square&logoColor=ff69b4"/></a>
+<a href="https://0to1log.com/portfolio/"><img src="https://img.shields.io/badge/Portfolio-ff69b4?style=flat-square&logoColor=ff69b4"/></a>
 <a href="mailto:ming2tofu33@gmail.com"><img src="https://img.shields.io/badge/Gmail-34A853?style=flat&logo=gmail&logoColor=white"/></a>
 <a href="https://www.linkedin.com/in/ming2tofu33/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white"/></a>
 </p>
@@ -148,11 +148,11 @@ My work focuses on LLM applications, data systems, and user-centered AI services
 
 **Overview:** Building a bilingual AI publication where readers can follow fast-moving AI news, look up key terms in a glossary, save their own reading library, and connect technical signals to practical understanding.
 
-**Current Status:** Live bilingual service with published AI news, glossary, library, and blog experiences already deployed at `0to1log.com`.
+**Current Status:** Live bilingual service with published AI news, glossary, product discovery, library, and blog experiences already deployed.
 
-**Story:** What began as a personal learning record is growing into a public product for AI curation, explanation, and knowledge-building.
+**Distinctive Value:** Instead of a simple blog, 0to1log connects AI news, glossary entries, product discovery, and personal knowledge collection into one learning workflow.
 
-[🌐 Visit 0to1log](https://0to1log.com/)
+[🌐 Live Site](https://0to1log.com/) · [📰 News](https://0to1log.com/ko/news/) · [📝 Blog](https://0to1log.com/ko/blog/) · [📚 Glossary](https://0to1log.com/ko/handbook/) · [🧰 Products](https://0to1log.com/ko/products/)
 
 ---
 
@@ -218,7 +218,7 @@ I believe in the power of **consistent 1% growth**. I document my daily learning
 # 📬 Let's Connect!
 
 <p>
-<a href="https://ming2tofu33.github.io/"><img src="https://img.shields.io/badge/AMY | Portfolio-ff69b4?style=flat-square&logoColor=ff69b4"/></a>
+<a href="https://0to1log.com/portfolio/"><img src="https://img.shields.io/badge/Portfolio-ff69b4?style=flat-square&logoColor=ff69b4"/></a>
 <a href="mailto:ming2tofu33@gmail.com"><img src="https://img.shields.io/badge/Gmail-34A853?style=flat&logo=gmail&logoColor=white"/></a>
 <a href="https://www.linkedin.com/in/ming2tofu33/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white"/></a>
 </p>
