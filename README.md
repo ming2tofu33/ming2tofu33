@@ -141,7 +141,7 @@ My work focuses on LLM applications, data systems, and user-centered AI services
 
 # 🧸 Toy Project
 
-### 📰 0to1log (In Progress)
+### 📰 0to1log
 **Type:** AI publication & knowledge platform
 
 **Tech Stack:** `Astro` `FastAPI` `Supabase` `OpenAI` `Tailwind CSS`
@@ -156,7 +156,7 @@ My work focuses on LLM applications, data systems, and user-centered AI services
 
 ---
 
-### ⛏️ Idea-Mine
+### ⛏️ Idea-Mine (In Progress)
 **Type:** AI idea generation platform
 
 **Tech Stack:** `Expo` `React Native` `Supabase` `Python` `OpenAI`
