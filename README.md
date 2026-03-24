@@ -4,9 +4,8 @@
 
 # 👤 Intro
 
-I integrate global business insights with AI technology to drive practical problem-solving. I am dedicated to implementing user-centric AI solutions based on a Python, ML, and LLM tech stack.
-
-Currently, I am advancing my technical depth at the Sprint AI Engineer Bootcamp (2025.11 - 2026.06), focusing on Deep Learning, Computer Vision, and MLOps to build production-ready AI systems.
+I combine global perspective, business awareness, and AI engineering to build practical products.
+My work focuses on LLM applications, data systems, and user-centered AI services that solve real problems.
 
 > 💼 Actively seeking **AI Engineer** positions  
 > 📍 Location: 🇰🇷 -  Seocho, Seoul | Remote-friendly
@@ -18,6 +17,32 @@ Currently, I am advancing my technical depth at the Sprint AI Engineer Bootcamp 
 </p>
 
 ---
+
+### 📜 Verified Certifications
+
+| Certificate | Issuer | Date |
+| --- | --- | --- |
+| **BAE** (Big Data Analysis Engineer) | Korea Data Agency | Candidate *(Expected 1H 2026)* |
+| **SQLD** (SQL Developer) | Korea Data Agency | 2025.12 |
+| **ADsP** (Advanced Data Analytics Semi-Professional) | Korea Data Agency | 2025.11 |
+| **MK TEST** Excellent | Maeil Business Newspaper | 2024.07 |
+
+### 🎓 Education & Academic Path
+
+* **B.S. in Computer Engineering** | *Pursuing (Expected 2026)*
+  * Pursuing a second degree via Credit Bank System to solidify CS fundamentals and engineering principles.
+  
+* **AI Engineer Bootcamp (Sprint)** | *Nov 2025 – Jun 2026 (Ongoing)*
+  * Intensive training on Deep Learning, Computer Vision, and MLOps to build production-ready AI systems.
+
+* **AI-based Data Analyst (SeSAC)** | *Jun 2025 – Sep 2025*
+  * Comprehensive coursework covering Python/SQL-based data analysis, ML algorithms, and LLM application design with LangChain and RAG.
+
+* **B.A. in Child Studies** | *Feb 2026*
+  * Completed via Credit Bank System as a self-directed academic pivot, bridging human development insights with technical communication.
+
+* **University of Toronto** | *Computer Science Foundations (2016-2017)*
+  * Developed rigorous technical logic and global academic perspective in a world-class CS environment.
 
 # 🛠️ Tech Stack
 
@@ -47,7 +72,6 @@ Currently, I am advancing my technical depth at the Sprint AI Engineer Bootcamp 
 <img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white"/>
 </div>
 
-
 ### 📊 Visualization & Tools
 
 <em>Essential toolset for data storytelling, version control, and maintaining streamlined development and documentation workflows</em>
@@ -61,47 +85,23 @@ Currently, I am advancing my technical depth at the Sprint AI Engineer Bootcamp 
 <img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=notion&logoColor=white"/>
 </div>
 
-
-### 📜 Verified Certifications
-
-| Certificate | Issuer | Date |
-| --- | --- | --- |
-| **BAE** (Big Data Analysis Engineer) | Korea Data Agency | Candidate *(Expected 1H 2026)* |
-| **SQLD** (SQL Developer) | Korea Data Agency | 2025.12 |
-| **ADsP** (Advanced Data Analytics Semi-Professional) | Korea Data Agency | 2025.11 |
-| **MK TEST** Excellent | Maeil Business Newspaper | 2024.07 |
-
-### 🎓 Education & Academic Path
-
-* **B.S. in Computer Engineering** | *Pursuing (Expected 2026)*
-  * Pursuing a second degree via Credit Bank System to solidify CS fundamentals and engineering principles.
-  
-* **AI Engineer Bootcamp (Sprint)** | *Nov 2025 – Jun 2026 (Ongoing)*
-  * Intensive training on Deep Learning, Computer Vision, and MLOps to build production-ready AI systems.
-
-* **AI-based Data Analyst (SeSAC)** | *Jun 2025 – Sep 2025*
-  * Comprehensive coursework covering Python/SQL-based data analysis, ML algorithms, and LLM application design with LangChain and RAG.
-
-* **B.A. in Child Studies** | *Feb 2026*
-  * Completed via Credit Bank System as a self-directed academic pivot, bridging human development insights with technical communication.
-
-* **University of Toronto** | *Computer Science Foundations (2016-2017)*
-  * Developed rigorous technical logic and global academic perspective in a world-class CS environment.
-
 ---
 
 # 🚀 Main Project
 
-### 🩺  Healthcare Image Recognition System (In Progress)
-**Role:** Team Leader (Leading a team of AI engineers)
+### 🩺 Healthcare Pill Detection Pipeline
+**Role:** Team Leader | Project Manager & Model Architect
 
 **Duration:** Jan 2026 – Feb 2026 (Part of AI Engineer Bootcamp)
 
-**Tech Stack:** `Python` `PyTorch` `OpenCV` `FastAPI`
+**Tech Stack:** `Python` `PyTorch` `YOLOv8m` `OpenCV` `Ultralytics`
 
-**Objective:** Developing a robust image recognition model for healthcare diagnostics.
+**Objective:** Built a reproducible object detection pipeline for medical pill images, covering data preparation, training, evaluation, and submission validation.
 
-**Key Contribution:** Managing project milestones, architecture design, and integrating deep learning models.
+**Highlights:**
+- Led a 5-person team and managed project milestones, Git flow, and collaboration documentation.
+- Designed a standardized Stage 0-4 pipeline for preprocessing, training, evaluation, and submission generation.
+- Improved the public score from `0.90052` to `0.99524` while helping stabilize model selection and post-processing strategy.
 
 [📁 View Project](https://github.com/ming2tofu33/pjt-sprint_ai07_healthcare)
 
@@ -136,12 +136,38 @@ Currently, I am advancing my technical depth at the Sprint AI Engineer Bootcamp 
 
 **Insights:** Conducted statistical analysis on genre trends and ROI distributions over a 15-year period.
 
-[📁 View Project](https://github.com/ming2tofu33/pjt-movie-analysis)
+[📁 View Project](https://github.com/ming2tofu33/pjt-movie_analysis)
 
 
 # 🧸 Toy Project
 
-> In progress...
+### 📰 0to1log (In Progress)
+**Type:** AI publication & knowledge platform
+
+**Tech Stack:** `Astro` `FastAPI` `Supabase` `OpenAI` `Tailwind CSS`
+
+**Overview:** Building a bilingual AI publication where readers can follow fast-moving AI news, look up key terms in a glossary, save their own reading library, and connect technical signals to practical understanding.
+
+**Current Status:** Live bilingual service with published AI news, glossary, library, and blog experiences already deployed at `0to1log.com`.
+
+**Story:** What began as a personal learning record is growing into a public product for AI curation, explanation, and knowledge-building.
+
+[🌐 Visit 0to1log](https://0to1log.com/)
+
+---
+
+### ⛏️ Idea-Mine
+**Type:** AI idea generation platform
+
+**Tech Stack:** `Expo` `React Native` `Supabase` `Python` `OpenAI`
+
+**Overview:** Designing a pixel-art "mine" themed platform where users combine technology and business keywords to generate, evaluate, and refine startup ideas through a human-in-the-loop workflow.
+
+**Current Status:** Mobile app in development, with the core concept, keyword-driven idea workflow, and product worldbuilding already defined.
+
+**Direction:** Evolving from a structured planning and research system into an interactive product focused on idea exploration and creative leverage.
+
+[📁 View Project](https://github.com/ming2tofu33/Idea-Mine)
 
 ---
 
@@ -150,7 +176,7 @@ Currently, I am advancing my technical depth at the Sprint AI Engineer Bootcamp 
 I believe in the power of **consistent 1% growth**. I document my daily learning journey to build a solid technical foundation.
 
 * **[😺 TIL (Today I Learned)](https://github.com/ming2tofu33/TIL):** Posts documenting daily progress in AI, Data Science, and CS fundamentals. (Ongoing)
-* **[🏠 Technical Blog](https://0to1log.notion.site/AI-Engineer-2bbee8fffe15809995d0fc6fcded2fd3?source=copy_link):** In-depth articles on project walkthroughs and industry trends.
+* **[🏠 Technical Blog](https://0to1log.com/ko/blog/):** In-depth articles on project walkthroughs and industry trends.
 * **[📝 Notion Study Notes](https://0to1log.notion.site/21cee8fffe15809b8428e059252b7b63?v=21cee8fffe158139b40e000c1a50ab22&source=copy_link):** Centralized knowledge base for Bootcamp curriculum and deep learning research.
 
 ### 💭 Problem Solving
@@ -178,7 +204,7 @@ I believe in the power of **consistent 1% growth**. I document my daily learning
 
 ### 🗣️ Leadership & Breaking Down Complexity
 
-* **Leadership in Action:** Serving as **Team Leader** for a Healthcare AI Project at Sprint AI Bootcamp(2026). I manage technical milestones, oversee model architecture, and ensure team-wide communication.
+* **Leadership in Action:** Led a **5-person Healthcare Pill Detection Project** at Sprint AI Bootcamp (2026), managing milestones, model architecture, and team-wide communication.
 * **Community Coordination:** Previously served as **Class President** at SeSAC(2025) for 3 months, acting as a bridge between 30+ students and instructors to foster a collaborative environment.
 * **Empathy-Driven Engineering:** Leveraging my background as a **former educator and ski instructor** to simplify complex technical logic for diverse audiences.
 
