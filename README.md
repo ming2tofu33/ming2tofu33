@@ -152,6 +152,8 @@ My work focuses on LLM applications, data systems, and user-centered AI services
 
 **Distinctive Value:** Instead of a simple blog, 0to1log connects AI news, glossary entries, product discovery, and personal knowledge collection into one learning workflow.
 
+[📁 View Project](https://github.com/x0to1log/0to1log)
+
 [🌐 Live Site](https://0to1log.com/) · [📰 News](https://0to1log.com/ko/news/) · [📝 Blog](https://0to1log.com/ko/blog/) · [📚 Glossary](https://0to1log.com/ko/handbook/) · [🧰 Products](https://0to1log.com/ko/products/)
 
 ---
