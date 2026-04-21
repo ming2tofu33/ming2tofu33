@@ -107,6 +107,25 @@ My work focuses on LLM applications, data systems, and user-centered AI services
 
 ---
 
+### 📄 BidMate RAG for Public Procurement
+**Role:** Project Manager | Evaluation & Documentation
+
+**Duration:** Apr 1 2026 – Apr 20 2026 (Part of AI Engineer Bootcamp)
+
+**Tech Stack:** `Python` `FastAPI` `OpenAI` `ChromaDB` `Next.js` `Streamlit`
+
+**Objective:** Built an evidence-grounded RAG system that helps public-bid consultants search, compare, and question long RFP documents with cited answers.
+
+**Highlights:**
+- Processed 101 public procurement RFP documents and supported consultant workflows for requirements, budget, schedule, and evaluation-criteria lookup.
+- Built an end-to-end pipeline covering parsing, chunking, indexing, retrieval, generation, evaluation, and markdown reporting.
+- Achieved retrieval metrics of `Hit Rate@5 1.000`, `MRR 1.000`, `nDCG@5 1.000` and generation `Faithfulness 1.000`, while tracking latency and cost at `$0.0146/query`.
+- Delivered both a Next.js user chat UI and a Streamlit evaluation/debug UI for practical usage and experiment analysis.
+
+[📁 View Project](https://github.com/ming2tofu33/pjt-sprint_ai07_bidmateRAG)
+
+---
+
 ### 💍 AI Wedding Planner Agent
 **Duration:** Sep 2025 (2 Weeks)
 
@@ -124,21 +143,6 @@ My work focuses on LLM applications, data systems, and user-centered AI services
 
 
 ---
-
-### 🎬 Korean Cinema Network & Market Insight Engine
-**Duration:** Jul 2025 (2 Weeks)
-
-**Tech Stack:** `Python` `KOFIC API` `Web Scraping` `Pandas`
-
-**Data Collection:** Built a robust dataset of 900+ Korean films using KOFIC, TMDB APIs, and web scraping.
-
-**Network Analysis:** Utilized NetworkX to analyze and visualize collaboration patterns between directors and actors.
-
-**Insights:** Conducted statistical analysis on genre trends and ROI distributions over a 15-year period.
-
-[📁 View Project](https://github.com/ming2tofu33/pjt-movie_analysis)
-
-
 # 🧸 Toy Project
 
 ### 📰 0to1log
