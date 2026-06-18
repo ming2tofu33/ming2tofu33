@@ -89,6 +89,25 @@ My work focuses on LLM applications, data systems, and user-centered AI services
 
 # 🚀 Main Project
 
+### 🚀 EasyAds Agent / Gaetteok-Chaltteok
+**Role:** Project Manager | Product Vision & Service Architecture
+
+**Duration:** May 2026 – Jun 2026 (Completed, Part of AI Engineer Bootcamp)
+
+**Tech Stack:** `Next.js` `FastAPI` `LangGraph` `OpenAI` `Supabase` `Docker`
+
+**Objective:** Built a conversational AI advertising agent that turns natural-language requests and product images into structured briefs, ad copy, visual strategies, generated assets, quality checks, and saved outputs.
+
+**Highlights:**
+- Led MVP scope, prioritization, issue tracking, and product direction for a full-stack AI ad generation service.
+- Designed the mobile-first ad creation flow, generation result archive, resume behavior, Supabase/Postgres data model, and compliance gate strategy.
+- Connected multimodal intake, copy recommendation, visual strategy routing, image generation, OCR/VLM quality gates, and persistent output storage into one service workflow.
+- Delivered a deployed Next.js user interface with FastAPI/LangGraph orchestration and documented architecture, compliance, database, and quality gate designs.
+
+[📁 View Project](https://github.com/ming2tofu33/pjt-sprint_ai07_easyadsAGENT) · [🌐 Live Site](https://easyads-agent.vercel.app/) · [📊 Deck](https://ming2tofu33.github.io/pjt-sprint_ai07_easyadsAGENT/)
+
+---
+
 ### 🩺 Healthcare Pill Detection Pipeline
 **Role:** Team Leader | Project Manager & Model Architect
 
