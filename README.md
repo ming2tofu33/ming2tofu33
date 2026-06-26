@@ -181,6 +181,23 @@ My work focuses on LLM applications, data systems, and user-centered AI services
 
 ---
 
+### 🐈‍⬛ Manyang Dream Reader (In Progress)
+**Type:** AI dream reading & reflection toy project
+
+**Tech Stack:** `Next.js` `React` `TypeScript` `Supabase` `OpenAI` `Tailwind CSS`
+
+**Overview:** Building an AI dream reading app where users write down last night's dream, receive a symbolic reading grounded in a custom dream encyclopedia, and keep the result as a small dream receipt and archive.
+
+**Current Status:** In development, with dream input, RAG-based symbol retrieval, evidence gates, archive/calendar flows, daily tarot, and shareable results already implemented.
+
+**Direction:** Exploring a softer AI experience that turns fleeting dreams into searchable symbols, reflective records, and lightweight emotional storytelling.
+
+[📁 View Project](https://github.com/ming2tofu33/manyang)
+
+[🌐 Live Site](https://manyang.vercel.app/)
+
+---
+
 ### ⛏️ Idea-Mine (In Progress)
 **Type:** AI idea generation platform
 
